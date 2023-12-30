@@ -1,3 +1,5 @@
+---
+
 # OpenCar Project (OpenCar 项目)
 
 ## Introduction (项目简介)
@@ -21,9 +23,7 @@ Your support will be used for the development and maintenance of the project. (�
 
 ## Contact Us (联系方式)
 If you have any questions or want to discuss further, please contact us through the following: (如果您有任何问题或想进一步讨论，请通过以下方式联系我们：)
-- Email: [your-email@example.com](mailto:your-email@example.com) (邮箱：[your-email@example.com](mailto:your-email@example.com))
+- Email: [bccw_2021@qq.com](mailto:bccw_2021@qq.com) (邮箱：[bccw_2021@qq.com](mailto:bccw_2021@qq.com))
 - GitHub: [your-github-profile](link to your GitHub profile or project page) (GitHub：[your-github-profile](你的 GitHub 个人或项目主页链接))
 
 ---
-
-请根据您项目的具体情况添加或修改相应部分，比如项目详情、贡献指南链接、二维码链接、联系方式等。祝您的项目取得圆满成功！
