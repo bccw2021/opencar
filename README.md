@@ -5,6 +5,8 @@
 ## Introduction (项目简介)
 OpenCar is an open-source automotive project inspired by Cybertruck. Our goal is to collaborate with autonomous driving engineers, mechanical engineers, and car enthusiasts to develop an innovative, reliable, and cost-effective electric vehicle. (OpenCar 是一个受 Cybertruck 启发的开源汽车项目。我们的目标是与自动驾驶工程师、机械工程师以及汽车爱好者合作，共同开发一款创新、可靠且经济实惠的电动汽车。)
 
+Tesla's Cybertruck Parts Catalog: https://epc.tesla.com/en-US/catalogs/2816
+
 ## How to Participate (如何参与)
 - **Code Contribution**: If you're a programmer or engineer, feel free to submit code or improvement proposals on GitHub. (代码贡献：如果您是程序员或工程师，请在 GitHub 上提交代码或改进建议。)
 - **Design and Ideas**: If you have unique insights into car design, we welcome your design concepts and ideas. (设计与创意：如果您对汽车设计有独到的见解，我们欢迎您的设计理念和创意。)
